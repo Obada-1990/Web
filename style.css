@@ -1,0 +1,25 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+
+p{
+    border: 3px dotted red;
+    color: brown;
+    text-align: center;
+}
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+#Bottom{
+    color: brown;
+    text-align:center;
+    font-size: 20px;
+}
+.name{
+    color:blue;
+    font-size: 20px;
+}
